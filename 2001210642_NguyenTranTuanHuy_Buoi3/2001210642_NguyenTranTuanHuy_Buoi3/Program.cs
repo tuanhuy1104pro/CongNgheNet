@@ -10,7 +10,7 @@ namespace _2001210642_NguyenTranTuanHuy_Buoi3
     {
         static void Main(string[] args)
         {
-            Triangle Hinh1 = new Triangle(6, 6, 4);
+            Triangle Hinh1 = new Triangle(2, 2, 2);
             Hinh1.ToString();
             Console.ReadKey();
         }
