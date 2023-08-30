@@ -1,0 +1,6 @@
+C:\Users\Administrator\Downloads\Buoi3\2001210642_NguyenTranTuanHuy_Buoi3\Bai4\bin\Debug\Bai4.exe.config
+C:\Users\Administrator\Downloads\Buoi3\2001210642_NguyenTranTuanHuy_Buoi3\Bai4\bin\Debug\Bai4.exe
+C:\Users\Administrator\Downloads\Buoi3\2001210642_NguyenTranTuanHuy_Buoi3\Bai4\bin\Debug\Bai4.pdb
+C:\Users\Administrator\Downloads\Buoi3\2001210642_NguyenTranTuanHuy_Buoi3\Bai4\obj\Debug\Bai4.exe
+C:\Users\Administrator\Downloads\Buoi3\2001210642_NguyenTranTuanHuy_Buoi3\Bai4\obj\Debug\Bai4.pdb
+C:\Users\Administrator\Downloads\Buoi3\2001210642_NguyenTranTuanHuy_Buoi3\Bai4\obj\Debug\Bai4.csprojResolveAssemblyReference.cache
