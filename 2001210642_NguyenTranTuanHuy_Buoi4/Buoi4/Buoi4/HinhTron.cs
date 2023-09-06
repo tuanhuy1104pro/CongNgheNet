@@ -15,38 +15,38 @@ namespace Bai7_Module0
             get { return tam; }
             set { tam = value; }
         }
-        private double Bankinh;
+        private double bankinh;
 
-        public double Bankinh1
+        public double Bankinh
         {
-            get { return Bankinh; }
-            set { Bankinh = value; }
+            get { return bankinh; }
+            set { bankinh = value; }
         }
         public HinhTron()
         {
             Tam = new ToaDo();
-            Bankinh1 = 0;
+            bankinh = 0;
             Tam.Ten = "Hinh Tron";
         }
         public HinhTron(ToaDo tam, double bkinh)
         {
             Tam = tam;
-            Bankinh1 = bkinh;
+            bankinh = bkinh;
             Tam.Ten = "Hinh Tron";
         }
         public void TinhChuViTron()
         {
-            var temp = 2 * 3.14 * Bankinh1;
+            var temp = 2 * 3.14 * bankinh;
             Console.WriteLine("\nChu vi hinh tron la: " + temp);
         }
         public void TinhDienTichTron()
         {
-            var temp = 3.14 * Bankinh1 * Bankinh1;
+            var temp = 3.14 * bankinh * bankinh;
             Console.WriteLine("\nDien tich hinh tron la: " + temp);
         }
         public void ToString()
         {
-            Console.Write(Tam + "Co ban kinh " + Bankinh1);
+            Console.Write(Tam + "Co ban kinh " + bankinh);
             TinhChuViTron();
             TinhDienTichTron();
         }
