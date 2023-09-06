@@ -10,7 +10,8 @@ namespace Bai1_Module1
     {
         static void Main(string[] args)
         {
-            
+            CongTy t1 = new CongTy();
+           
         }
     }
 }

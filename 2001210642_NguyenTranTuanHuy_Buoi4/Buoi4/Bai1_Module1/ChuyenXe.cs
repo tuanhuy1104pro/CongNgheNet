@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bai1_Module1
 {
-    public class ChuyenXe:NgoaiThanh,NoiThanh
+     class ChuyenXe
     {
         protected string maSoChuyen;
 
@@ -50,14 +50,20 @@ namespace Bai1_Module1
         }
        
     }
-    public interface NoiThanh
+   class NoiThanh:ChuyenXe
+   {
+       private string noiDen;
+       private int soNgayDi;
+       public NoiThanh()
+       {
+           
+       }
+      
+       
+       
+   }
+    class NgoaiThanh:ChuyenXe
     {
-        public int soChuyen;
-        public float soKilomet;
-    }
-    private interface NgoaiThanh
-    {
-        public string noiDen;
-        public int soNgayDi;
+
     }
 }

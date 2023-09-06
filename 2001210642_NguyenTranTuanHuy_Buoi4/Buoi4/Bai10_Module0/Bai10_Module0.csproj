@@ -7,7 +7,7 @@
     <ProjectGuid>{3B5C4A99-C4BE-4D94-978E-03D713CC9369}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Bai10_Module0</RootNamespace>
+    <RootNamespace>Bai1_Module1</RootNamespace>
     <AssemblyName>Bai10_Module0</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

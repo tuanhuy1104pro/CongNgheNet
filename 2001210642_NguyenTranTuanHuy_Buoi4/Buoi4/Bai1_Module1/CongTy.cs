@@ -9,7 +9,5 @@ namespace Bai1_Module1
     public class CongTy:ChuyenXe
     {
         
-        
-       
     }
 }
