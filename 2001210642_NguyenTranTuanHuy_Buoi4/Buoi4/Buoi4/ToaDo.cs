@@ -35,13 +35,13 @@ namespace Bai7_Module0
         }
         public ToaDo(float x,float y)
         {
-            X = x;
-            Y = y;
+            this.x = x;
+            this.y = y;
         }
         public override string ToString()
         {
 
-            return "Hinh tron co tam O(" + X + "," + Y + ") ";
+            return "Hinh tron co tam O(" + x + "," + y + ") ";
         }
     }
 }
