@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\project\CongNgheNet\2001210642_NguyenTranTuanHuy_Buoi4\Buoi4\Bai1_Module1\bin\Debug\Bai1_Module1.exe.config
+C:\Users\Administrator\Desktop\project\CongNgheNet\2001210642_NguyenTranTuanHuy_Buoi4\Buoi4\Bai1_Module1\bin\Debug\Bai1_Module1.exe
+C:\Users\Administrator\Desktop\project\CongNgheNet\2001210642_NguyenTranTuanHuy_Buoi4\Buoi4\Bai1_Module1\bin\Debug\Bai1_Module1.pdb
+C:\Users\Administrator\Desktop\project\CongNgheNet\2001210642_NguyenTranTuanHuy_Buoi4\Buoi4\Bai1_Module1\obj\Debug\Bai1_Module1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\project\CongNgheNet\2001210642_NguyenTranTuanHuy_Buoi4\Buoi4\Bai1_Module1\obj\Debug\Bai1_Module1.exe
+C:\Users\Administrator\Desktop\project\CongNgheNet\2001210642_NguyenTranTuanHuy_Buoi4\Buoi4\Bai1_Module1\obj\Debug\Bai1_Module1.pdb
