@@ -37,12 +37,18 @@ namespace Bai7_Module0
         public void TinhChuViTron()
         {
             var temp = 2 * 3.14 * Bankinh1;
-            Console.WriteLine("Chu vi hinh tron la: " + temp);
+            Console.WriteLine("\nChu vi hinh tron la: " + temp);
         }
         public void TinhDienTichTron()
         {
             var temp = 3.14 * Bankinh1 * Bankinh1;
-            Console.WriteLine("Chu vi hinh tron la: " + temp);
+            Console.WriteLine("\nDien tich hinh tron la: " + temp);
+        }
+        public void ToString()
+        {
+            Console.Write(Tam + "Co ban kinh " + Bankinh1);
+            TinhChuViTron();
+            TinhDienTichTron();
         }
     }
 }

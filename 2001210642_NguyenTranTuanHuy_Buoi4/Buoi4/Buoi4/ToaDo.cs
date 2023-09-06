@@ -40,8 +40,8 @@ namespace Bai7_Module0
         }
         public override string ToString()
         {
-            
-            return "Ten: "+ Ten + "\tToa do x: " + X + " y: " + Y;
+
+            return "Hinh tron co tam O(" + X + "," + Y + ") ";
         }
     }
 }
