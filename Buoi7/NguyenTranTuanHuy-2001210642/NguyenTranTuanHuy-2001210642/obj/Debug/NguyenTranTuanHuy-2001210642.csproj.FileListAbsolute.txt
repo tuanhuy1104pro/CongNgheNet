@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\bin\Debug\NguyenTranTuanHuy-2001210642.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\bin\Debug\NguyenTranTuanHuy-2001210642.exe
+c:\users\administrator\documents\visual studio 2013\Projects\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\bin\Debug\NguyenTranTuanHuy-2001210642.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy-2001210642.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy_2001210642.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy_2001210642.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy-2001210642.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy-2001210642.exe
+c:\users\administrator\documents\visual studio 2013\Projects\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy-2001210642.pdb
+C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\bin\Debug\NguyenTranTuanHuy-2001210642.exe.config
+C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy-2001210642.exe
+C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy-2001210642.pdb
