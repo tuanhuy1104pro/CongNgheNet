@@ -10,3 +10,9 @@ c:\users\administrator\documents\visual studio 2013\Projects\NguyenTranTuanHuy-2
 C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\bin\Debug\NguyenTranTuanHuy-2001210642.exe.config
 C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy-2001210642.exe
 C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy-2001210642.pdb
+C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy-2001210642.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy_2001210642.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy_2001210642.Quanlikhoa.resources
+C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy-2001210642.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\bin\Debug\NguyenTranTuanHuy-2001210642.exe
+C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\bin\Debug\NguyenTranTuanHuy-2001210642.pdb
