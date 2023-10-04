@@ -41,6 +41,25 @@ namespace NguyenTranTuanHuy_2001210642
             txtR.Focus();
         }
 
+        public bool kiemtra(string s)
+        {
+            return true;
+        }
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+            int index = -1;
+            foreach(TreeNode node in TRR.Nodes)
+            {
+                if(node.Text == cboR.Text)
+                {
+                    index = node.Index;
+                    break;
+                }
+            }
+            TRR.Nodes[index].Nodes.Add(txtName.Text);
+            TRR.ExpandAll();
+        }
        
     }
 }
