@@ -32,7 +32,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.TRR = new System.Windows.Forms.TreeView();
-            this.lstR = new System.Windows.Forms.ComboBox();
+            this.cboR = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
             this.btnR = new System.Windows.Forms.TextBox();
             this.btnaddR = new System.Windows.Forms.Button();
@@ -83,13 +83,13 @@
             this.TRR.Size = new System.Drawing.Size(218, 176);
             this.TRR.TabIndex = 4;
             // 
-            // lstR
+            // cboR
             // 
-            this.lstR.FormattingEnabled = true;
-            this.lstR.Location = new System.Drawing.Point(336, 160);
-            this.lstR.Name = "lstR";
-            this.lstR.Size = new System.Drawing.Size(121, 21);
-            this.lstR.TabIndex = 6;
+            this.cboR.FormattingEnabled = true;
+            this.cboR.Location = new System.Drawing.Point(336, 160);
+            this.cboR.Name = "cboR";
+            this.cboR.Size = new System.Drawing.Size(121, 21);
+            this.cboR.TabIndex = 6;
             // 
             // label4
             // 
@@ -115,6 +115,7 @@
             this.btnaddR.TabIndex = 8;
             this.btnaddR.Text = "THEM PHONG BAN";
             this.btnaddR.UseVisualStyleBackColor = true;
+            this.btnaddR.Click += new System.EventHandler(this.btnaddR_Click);
             // 
             // btnRemoveR
             // 
@@ -207,7 +208,7 @@
             this.Controls.Add(this.btnRemoveR);
             this.Controls.Add(this.btnaddR);
             this.Controls.Add(this.btnR);
-            this.Controls.Add(this.lstR);
+            this.Controls.Add(this.cboR);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.TRR);
             this.Controls.Add(this.label3);
@@ -215,6 +216,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Bai3";
             this.Text = "Bai3";
+            this.Load += new System.EventHandler(this.Bai3_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -226,7 +228,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TreeView TRR;
-        private System.Windows.Forms.ComboBox lstR;
+        private System.Windows.Forms.ComboBox cboR;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox btnR;
         private System.Windows.Forms.Button btnaddR;

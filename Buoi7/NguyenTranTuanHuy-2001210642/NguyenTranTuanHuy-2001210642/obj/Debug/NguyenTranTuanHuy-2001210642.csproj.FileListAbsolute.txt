@@ -17,3 +17,4 @@ C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\Ng
 C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\bin\Debug\NguyenTranTuanHuy-2001210642.exe
 C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\bin\Debug\NguyenTranTuanHuy-2001210642.pdb
 C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy_2001210642.Bai2.resources
+C:\Users\Administrator\Desktop\CongNgheNet\Buoi7\NguyenTranTuanHuy-2001210642\NguyenTranTuanHuy-2001210642\obj\Debug\NguyenTranTuanHuy_2001210642.Bai3.resources
