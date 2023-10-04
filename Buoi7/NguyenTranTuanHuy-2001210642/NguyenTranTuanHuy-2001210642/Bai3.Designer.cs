@@ -34,7 +34,7 @@
             this.TRR = new System.Windows.Forms.TreeView();
             this.cboR = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.btnR = new System.Windows.Forms.TextBox();
+            this.txtR = new System.Windows.Forms.TextBox();
             this.btnaddR = new System.Windows.Forms.Button();
             this.btnRemoveR = new System.Windows.Forms.Button();
             this.btnL = new System.Windows.Forms.Button();
@@ -100,12 +100,12 @@
             this.label4.TabIndex = 5;
             this.label4.Text = "PHONG BAN";
             // 
-            // btnR
+            // txtR
             // 
-            this.btnR.Location = new System.Drawing.Point(134, 248);
-            this.btnR.Name = "btnR";
-            this.btnR.Size = new System.Drawing.Size(100, 20);
-            this.btnR.TabIndex = 7;
+            this.txtR.Location = new System.Drawing.Point(134, 248);
+            this.txtR.Name = "txtR";
+            this.txtR.Size = new System.Drawing.Size(100, 20);
+            this.txtR.TabIndex = 7;
             // 
             // btnaddR
             // 
@@ -207,7 +207,7 @@
             this.Controls.Add(this.btnL);
             this.Controls.Add(this.btnRemoveR);
             this.Controls.Add(this.btnaddR);
-            this.Controls.Add(this.btnR);
+            this.Controls.Add(this.txtR);
             this.Controls.Add(this.cboR);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.TRR);
@@ -230,7 +230,7 @@
         private System.Windows.Forms.TreeView TRR;
         private System.Windows.Forms.ComboBox cboR;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox btnR;
+        private System.Windows.Forms.TextBox txtR;
         private System.Windows.Forms.Button btnaddR;
         private System.Windows.Forms.Button btnRemoveR;
         private System.Windows.Forms.Button btnL;

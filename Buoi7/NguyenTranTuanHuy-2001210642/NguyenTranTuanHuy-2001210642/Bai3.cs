@@ -26,11 +26,19 @@ namespace NguyenTranTuanHuy_2001210642
                 cboR.Items.Add(s);
             }
             cboR.SelectedIndex = 0;
-        }
+        } 
 
         private void btnaddR_Click(object sender, EventArgs e)
         {
-            
+            if (kiemtra(txtR.Text))
+            {
+                TRR.Nodes.Add(txtR.Text);
+                cboR.Items.Add(txtR.Text);
+            }
+            else
+                MessageBox.Show("Phong da ton tai");
+            txtR.Text = "";
+            txtR.Focus();
         }
 
        
