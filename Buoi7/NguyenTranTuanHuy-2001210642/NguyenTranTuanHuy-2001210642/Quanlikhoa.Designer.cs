@@ -39,10 +39,15 @@
             // lstRight
             // 
             this.lstRight.FormattingEnabled = true;
+            this.lstRight.Items.AddRange(new object[] {
+            "Ban",
+            "cc",
+            "con cua"});
             this.lstRight.Location = new System.Drawing.Point(283, 32);
             this.lstRight.Name = "lstRight";
             this.lstRight.Size = new System.Drawing.Size(120, 95);
             this.lstRight.TabIndex = 0;
+            this.lstRight.SelectedIndexChanged += new System.EventHandler(this.lstRight_SelectedIndexChanged);
             // 
             // btnRight
             // 

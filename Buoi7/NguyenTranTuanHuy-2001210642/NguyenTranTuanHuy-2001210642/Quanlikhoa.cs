@@ -14,7 +14,11 @@ namespace NguyenTranTuanHuy_2001210642
     {
         public Quanlikhoa()
         {
-            
+            List<string> ds = new List<string>();
+            ds.Add("haha");
+            ds.Add("hooh");
+            ds.Add("hihi");
+         
             InitializeComponent();
         }
 
@@ -33,6 +37,11 @@ namespace NguyenTranTuanHuy_2001210642
         {
             lstRight.Items.AddRange(lstLeft.Items);
             lstLeft.Items.Clear();
+        }
+
+        private void lstRight_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
 
     
