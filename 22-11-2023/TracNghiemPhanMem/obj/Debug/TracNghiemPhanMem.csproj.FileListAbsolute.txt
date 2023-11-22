@@ -1,0 +1,10 @@
+C:\project\TracNghiemPhanMem\bin\Debug\TracNghiemPhanMem.exe.config
+C:\project\TracNghiemPhanMem\bin\Debug\TracNghiemPhanMem.exe
+C:\project\TracNghiemPhanMem\bin\Debug\TracNghiemPhanMem.pdb
+C:\project\TracNghiemPhanMem\obj\Debug\TracNghiemPhanMem.csproj.AssemblyReference.cache
+C:\project\TracNghiemPhanMem\obj\Debug\TracNghiemPhanMem.Form1.resources
+C:\project\TracNghiemPhanMem\obj\Debug\TracNghiemPhanMem.Properties.Resources.resources
+C:\project\TracNghiemPhanMem\obj\Debug\TracNghiemPhanMem.csproj.GenerateResource.cache
+C:\project\TracNghiemPhanMem\obj\Debug\TracNghiemPhanMem.csproj.CoreCompileInputs.cache
+C:\project\TracNghiemPhanMem\obj\Debug\TracNghiemPhanMem.exe
+C:\project\TracNghiemPhanMem\obj\Debug\TracNghiemPhanMem.pdb
