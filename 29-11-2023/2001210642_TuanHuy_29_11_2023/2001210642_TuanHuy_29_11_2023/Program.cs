@@ -8,7 +8,7 @@ namespace _2001210642_TuanHuy_29_11_2023
 {
     static class Program
     {
-        /// <summary>
+        /// <summary> 
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
